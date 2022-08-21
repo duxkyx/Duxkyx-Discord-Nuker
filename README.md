@@ -2,7 +2,7 @@
 
 # Duxkyx Nuker
 
-A Discord tool with 7 features. This is my first proper Python project (evidently shown by my hideous code), if you would like to leave feedback it would be greatly appreciated, if this goes well I might decide to add more too it.
+A Discord tool with 7 features. This is my first proper Python project (evidently shown by my hideous code), if you would like to leave feedback it would be greatly appreciated, if this goes well I might decide to add more to it.
 
 ```bash
   • Mass Ban.

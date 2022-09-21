@@ -19,11 +19,6 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 
-### this is a small project so I can understand python better, idc if u know more than me and idc if u want to complain about how messy the code is, use it or don't :)))) - Duxkyx
-
-
-
-
 # this was made in like 3 hours so if u got issues dm me - Duxkyx#5079
 
 
